@@ -1,4 +1,4 @@
-# ComNets-Research-Lab-Real_Sensor-Data
+# ComNets-Research-Lab-Sensor-Data (SEDA)
 Data Collected from 6 sensors installed in the Garden July 19-September 30, 2022
 The data under different practical situations, including real faulty behaviours, play an essential role in evaluating the performance of the proposed method. However, to our knowledge,there is no such dataset available publicly that contains both normal and real faulty sensor measurements, which are not
 even evident and mimic normal sensor data. Accordingly, we produced two labelled datasets with both healthy and defective sensors. We believe the collected data can provide valuable resources for developing tools and supporting the community.
