@@ -10,7 +10,7 @@ The third experiment utilized three $SCD30$ carbon dioxide measurement sensors e
 
 The obtained faulty data exhibited complex behavior in all three experiments, revealing the inadequacy of modeling faults with a single fault factor. As a result, a thorough understanding of sensor faults is required, given the possibility that a hazard, such as degradation, may produce multiple faults concurrently.
 
-To Use the data, you need to reference this paper:
+**_NOTE:_**   To Use the data, you need to reference this paper:
 @article{attarha2024assuresense,
   title={AssureSense: A Framework for Enabling Sensor Fault Detection in Low-Power IoT Edge Devices},
   author={Attarha, Shadi and F{\"o}rster, Anna},
