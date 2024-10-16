@@ -12,14 +12,14 @@ The obtained faulty data exhibited complex behavior in all three experiments, re
 
 ---
 **NOTE**
-      To Use the data, you need to reference this paper:
-      @article{attarha2024assuresense,
-        title={AssureSense: A Framework for Enabling Sensor Fault Detection in Low-Power IoT Edge Devices},
-        author={Attarha, Shadi and F{\"o}rster, Anna},
-        journal={IEEE Sensors Journal},
-        year={2024},
-        publisher={IEEE}
-      }
+      To Use the data, you need to reference this paper: <br>
+      @article{attarha2024assuresense, <br>
+        title={AssureSense: A Framework for Enabling Sensor Fault Detection in Low-Power IoT Edge Devices},<br>
+        author={Attarha, Shadi and F{\"o}rster, Anna},<br>
+        journal={IEEE Sensors Journal},<br>
+        year={2024},<br>
+        publisher={IEEE}<br>
+      }<br>
 ---
 
 
