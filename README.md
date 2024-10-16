@@ -10,11 +10,9 @@ The third experiment utilized three $SCD30$ carbon dioxide measurement sensors e
 
 The obtained faulty data exhibited complex behavior in all three experiments, revealing the inadequacy of modeling faults with a single fault factor. As a result, a thorough understanding of sensor faults is required, given the possibility that a hazard, such as degradation, may produce multiple faults concurrently.
 
-\begin{figure*}
-  \centering
-  \includegraphics[]{Humi-againg.pdf}
-\includegraphics[]{Temp-againg.pdf}  
-  \includegraphics[]{Co2.pdf}
-\caption{Illustration of a subset of datasets representing normal and faulty data for humidity, temperature, and CO2 }
-  \label{trainsets}
-\end{figure*}
+![alt text](https://github.com/ComNets-Bremen/ComNets-Real-Sensor-Data/blob/master/Humi-againg.pdf)
+![alt text](https://github.com/ComNets-Bremen/ComNets-Real-Sensor-Data/blob/master/Temp-againg.pdf)
+![alt text](https://github.com/ComNets-Bremen/ComNets-Real-Sensor-Data/blob/master/Co2.pdf)
+
+
+
