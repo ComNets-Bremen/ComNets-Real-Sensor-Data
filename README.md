@@ -12,9 +12,9 @@ The obtained faulty data exhibited complex behavior in all three experiments, re
 
 \begin{figure*}
   \centering
-  \includegraphics[]{../../Desktop/dissertation/Humi-againg.pdf}
-  \includegraphics[]{../../Desktop/dissertation/Temp-againg.pdf}
-  \includegraphics[]{../../Desktop/dissertation/Co2.pdf}
+  \includegraphics[]{Humi-againg.pdf}
+\includegraphics[]{Temp-againg.pdf}  
+  \includegraphics[]{Co2.pdf}
 \caption{Illustration of a subset of datasets representing normal and faulty data for humidity, temperature, and CO2 }
   \label{trainsets}
 \end{figure*}
