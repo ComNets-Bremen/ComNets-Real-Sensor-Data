@@ -12,7 +12,7 @@ The obtained faulty data exhibited complex behavior in all three experiments, re
 
 ![screenshot](https://github.com/ComNets-Bremen/ComNets-Real-Sensor-Data/blob/master/Humi-againg.pdf)
 ![alt text](https://github.com/ComNets-Bremen/ComNets-Real-Sensor-Data/blob/master/Temp-againg.pdf)
-![alt text](https://github.com/ComNets-Bremen/ComNets-Real-Sensor-Data/blob/master/Co2.pdf)
+![alt text](https://github.com/ComNets-Bremen/ComNets-Real-Sensor-Data/blob/master/artificial-intelligence-finance-analytics-22170.png)
 
 
 
