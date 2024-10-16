@@ -9,3 +9,12 @@ In the second experiment, three $DHT11$ sensors were employed. Initially, two se
 The third experiment utilized three $SCD30$ carbon dioxide measurement sensors employing NDIR technology. These sensors began in a normal operational state, and their measurements were compared to those obtained from a reference device. Subsequently, one of the sensors was subjected to elevated temperatures to accelerate the degradation of its sensing material and potentially deform the optical chamber, both known factors associated with sensor faults under extreme stress conditions\cite{jia2021miniaturised}. Data were recorded at 12-minute intervals over ten days. The datasets were labeled according to the $SCD30$ datasheet with an accuracy of +/-50 ppm.
 
 The obtained faulty data exhibited complex behavior in all three experiments, revealing the inadequacy of modeling faults with a single fault factor. As a result, a thorough understanding of sensor faults is required, given the possibility that a hazard, such as degradation, may produce multiple faults concurrently.
+
+\begin{figure*}
+  \centering
+  \includegraphics[]{../../Desktop/dissertation/Humi-againg.pdf}
+  \includegraphics[]{../../Desktop/dissertation/Temp-againg.pdf}
+  \includegraphics[]{../../Desktop/dissertation/Co2.pdf}
+\caption{Illustration of a subset of datasets representing normal and faulty data for humidity, temperature, and CO2 }
+  \label{trainsets}
+\end{figure*}
