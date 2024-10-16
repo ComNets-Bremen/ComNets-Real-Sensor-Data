@@ -12,7 +12,8 @@ The obtained faulty data exhibited complex behavior in all three experiments, re
 
 ---
 **NOTE** <br>
-      To Use the data, you need to reference this paper: <br>
+---
+To Use the data, you need to reference this paper: <br> <br>
       @article{attarha2024assuresense, <br>
         title={AssureSense: A Framework for Enabling Sensor Fault Detection in Low-Power IoT Edge Devices},<br>
         author={Attarha, Shadi and F{\"o}rster, Anna},<br>
@@ -20,7 +21,7 @@ The obtained faulty data exhibited complex behavior in all three experiments, re
         year={2024},<br>
         publisher={IEEE}<br>
       }<br>
----
+
 
 
 
